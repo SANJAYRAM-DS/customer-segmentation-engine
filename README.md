@@ -1,14 +1,3 @@
----
-# title: Customer Segmentation Engine
-# emoji: 📊
-# colorFrom: blue
-# colorTo: purple
-# sdk: docker
-# pinned: false
----
-
-<div align="center">
-
 # 🧠 Customer Intelligence System
 
 **Enterprise-grade ML pipeline that transforms raw behavioral data into actionable customer intelligence**
